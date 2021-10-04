@@ -6,7 +6,7 @@ let config = {
 
 switch(env.toUpperCase()){
     case: "STAGE":
-        config.baseURL = "https://lylee21.github.io/deployment-test/"
+        config.baseURL = "https://stage.lylee21.github.io/deployment-test/"
         break;
 
     case: "PRODUCTION":
